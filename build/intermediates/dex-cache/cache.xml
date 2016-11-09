@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-03043de688d48c47d92645524666ae729decf728.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-f4501a433da8adcfc2c047497ad7e5eb5e9d942d.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-08f871f8626f67a15d5be18f20ab26a7db690590.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-5ac2b5e9741152a73c4fda281bdb2297f925f2c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-13d1c4b012345e3f9e5ced78e65308618a4d78a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-7e8d30473c93e87b514d48e65ec69d8c7a7b9007.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-00fd660b5f41b1f516f9a99bc3bf99547d9ceb50.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-cb542722d783e368f69102fb805b56682bb606a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-095ca0156febb5192539a16f3dfd6cb5020e82d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-a2695c8a74fd64d84f5eaf9e229c25aaf2a39806.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-7482161040a3f309c80aff5df2533a061daecf7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-c6eb92a56b551f9682153eb0da097e1d4de01456.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-7bce2b6b238c89ae97a223c838ac0ca3b8bfe0e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-01e9bc06b8b773ead1ed9ee55fc37e2fdf53f9d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-878d77a0191d8c130fd29586693213e04e2d135e.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-f5163bcfb8bcb4134129d3baafca65b9813a88cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-cfd6de17485f291d2f5a925131c981ada0006fdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-a7663e52046ece4359e7bde964568cc901d27467.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-4f205fc4dfc5539c60c2a4396db1806ad5cd795d.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-aa1ca89d7e4d26ad0545e23bdcb763f2637c9859.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-c7e9cbc562fb3347e1cbdec60cbfdf04e4ff5d24.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-1c47843789a75c295698d71d77d88169fd2c9fd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-176df321f1361195be0c315af3cc28ac36dc9921.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-c2228b331c5f3eb424862fb67d3f7b5fdb960715.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-fdc78c9b51808143f67637cda14889225abe614b.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-01e43a212783219eaffe21613d63f7b475d96c17.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-c0cfe99dc78b11d37dfbd2525b036c8d6dadb017.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-c77585e84af7327d1edb7ee7e890d162c60b4ef4.jar" />
+    </item>
+    <item
+        jar="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\aksha_000\AndroidStudioProjects\TrafficMonitoringSystem\app\build\intermediates\pre-dexed\debug\classes-51e65dd47a7439cba47fa06b98b61ea6eea9c2e4.jar" />
+    </item>
+
+</items>
